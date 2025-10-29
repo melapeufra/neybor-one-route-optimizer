@@ -1,6 +1,6 @@
 # Neybor One Route Optimizer
 
-Ce script calcule et trace l’itinéraire optimal pour distribuer des bonbons pour d'Halloween dans les maisons Neybor à Bruxelles.
+Ce script calcule et trace l’itinéraire optimal pour distribuer des bonbons d'Halloween dans les maisons Neybor à Bruxelles.
 ---
 ##Fonctionnalités
 
