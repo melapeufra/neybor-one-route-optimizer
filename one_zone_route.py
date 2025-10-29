@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# One-zone route (Office -> Artan 112), using ONLY the houses without '#' from your list.
-# Prints the Zone_1 summary and saves a PNG map. No CSV.
-
 from typing import List, Dict
 from math import radians, sin, cos, sqrt, atan2
 import argparse
