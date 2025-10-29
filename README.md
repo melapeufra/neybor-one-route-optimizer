@@ -2,7 +2,7 @@
 
 Ce script calcule et trace l’itinéraire optimal pour distribuer des bonbons d'Halloween dans les maisons Neybor à Bruxelles.
 ---
-##Fonctionnalités
+## Fonctionnalités
 
 - Calcule les distances entre adresses (formule de Haversine).
 
@@ -76,10 +76,10 @@ L_{\text{cycle}}(P) = L(P) + d(p_n, p_1)
 \]
 ```
 ---
-##Utilisation
+## Utilisation
 python route_planner.py --out-png carte.png
 
-##Dépendance
+## Dépendance
 ```
 pip install matplotlib
 ```
